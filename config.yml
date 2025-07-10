@@ -1,5 +1,5 @@
 title: sourpit
-baseURL: "https://sourpit.github.io/"
+baseURL: "https://sourpit.github.io/blog"
 theme: PaperModX
 
 enableRobotsTXT: true
