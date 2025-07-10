@@ -23,7 +23,7 @@ Until, i found out that i'm deficient in zinc and magnesium when i visited a hea
 
 I've been taking 5 supplements that I bought from Tokopedia ~~an online shop in indonesia~~.
 
- ![This is not a lot](images/mystack.png)
+ ![](images/mystack.png)
 
 - [Zinc 50mg NOW brand](https://tk.tokopedia.com/ZSBHDf8UK/)
 - [Magnesium glycinate DrBest's](https://tk.tokopedia.com/ZSBHDuwDM/)
