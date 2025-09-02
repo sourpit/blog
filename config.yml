@@ -1,6 +1,6 @@
 title: sourpit
 baseURL: "https://sourpit.github.io/blog/"
-theme: PaperModX
+theme: hugo-bearblog
 
 enableRobotsTXT: true
 enableEmoji: false
@@ -52,7 +52,7 @@ outputFormats:
 
 menu:
   main:
-    - name: posts
+    - name: Posts
       url: /posts/
       weight: 1
     - name: Notes
