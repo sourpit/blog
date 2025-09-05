@@ -29,11 +29,6 @@ ShowCodeCopyButtons: true
 ShowPostNavLinks: true
 Email: stinkypits@waifu.club
 
-homeInfoParams:
-  Title: "sourpit"
-  Content: |
-    bunch of stuff i'd try will be posted in here.
-
 permalinks:
   notes: /:section/:year/:month/:slugorfilename
 
@@ -60,9 +55,6 @@ languages:
     languageName: "English"
 
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
   highlight:
     style: friendly
     lineNos: true
