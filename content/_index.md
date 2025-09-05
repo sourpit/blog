@@ -1,9 +1,8 @@
 +++
-title = "Home"
+title = "/home"
 menu = "main"
 weight = 1
 +++
 
 # Welcome, Stranger!
-![](tkmiz.jpg)
-
+![art by tsukumizu](tkmiz.jpg)
