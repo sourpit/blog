@@ -3,12 +3,7 @@ title: "Improving my body with supplements"
 date: "2025-07-10"
 description: "I'm deficient on vitamins. now that i have money, i'm gonna maxxing my genetics can offer."
 tags:
-  - life
   - health
-ShowToc: true
-cover:
-  image: https://imgs.xkcd.com/comics/cells.png
-  caption: is it worth it?
 ---
 
 ## Introduction
