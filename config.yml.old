@@ -1,8 +1,9 @@
 title: sourpit
 baseURL: "https://sourpit.github.io/blog/"
-theme: 'hugo-bearblog'
+theme: PaperModX
 
 enableRobotsTXT: true
+enableEmoji: false
 
 params:
   description: "muh blog"
@@ -29,6 +30,12 @@ ShowCodeCopyButtons: true
 ShowPostNavLinks: true
 Email: stinkypits@waifu.club
 
+socialIcons:
+  - name: github-simple
+    url: "https://github.com/sourpit"
+  - name: rss-simple
+    url: "feed.xml"
+
 homeInfoParams:
   Title: "sourpit"
   Content: |
@@ -45,26 +52,27 @@ outputFormats:
 
 menu:
   main:
-    - name: /posts
+    - name: Posts
       url: /posts/
       weight: 1
-    - name: /notes
+    - name: Notes
       url: /notes/
       weight: 2
-    - name: /feed
-      url: /feed.xml
+    - name: Archives
+      url: /archives/
       weight: 3
 
 languages:
   en:
     languageName: "English"
+  id:
+    languageName: "Bahasa Indonesia"
 
 markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
-    style: friendly
-    lineNos: true
-    lineNumbersInTable: false
-    codeFences: true
+    style: dracula
+    lineNos: false
+    noClasses: false
