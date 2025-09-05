@@ -1,7 +1,8 @@
 ---
 title: "How to load json snippets on NVChad"
 date: "2025-09-05"
-tags: guide
+tags:
+    - guide
 ---
 
 In this guide I will be using meson as example. You can replace meson
