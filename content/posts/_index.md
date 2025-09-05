@@ -1,4 +1,0 @@
----
-title: Posts
-archivesSlug: archives
----
